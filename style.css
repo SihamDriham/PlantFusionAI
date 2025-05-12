@@ -1,0 +1,72 @@
+/* styles.css */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+h1, h2, h3 {
+    color: 
+#2e7d32;
+}
+.stButton>button {
+    background-color: 
+#4CAF50;
+    color: white;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+.stButton>button:hover {
+    background-color: 
+#45a049;
+}
+.sidebar .sidebar-content {
+    background-color: 
+#f1f8e9;
+}
+.css-1d391kg {
+    padding: 1rem;
+    border-radius: 5px;
+    background-color: 
+#f9f9f9;
+    margin-bottom: 1rem;
+}
+.status-box {
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+.healthy-box {
+    background-color: 
+#c8e6c9;
+    border: 1px solid 
+#a5d6a7;
+}
+.diseased-box {
+    background-color: 
+#ffcdd2;
+    border: 1px solid 
+#ef9a9a;
+}
+.info-box {
+    background-color: 
+#e3f2fd;
+    border: 1px solid 
+#bbdefb;
+    padding: 1rem;
+    border-radius: 5px;
+    margin: 1rem 0;
+}
+.logo-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: 
+#2e7d32;
+    margin-bottom: 1rem;
+}
+.footer {
+    text-align: center;
+    margin-top: 3rem;
+    color: 
+#757575;
+    font-size: 0.8rem;
+}
